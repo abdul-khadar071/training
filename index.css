@@ -1,0 +1,16 @@
+body{
+	color: green;
+
+}
+h1{
+	color: red;
+}
+span {
+
+font-weight: bold;
+
+}
+ol { 
+	
+  list-style-type: upper-roman;
+}
